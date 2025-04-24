@@ -17,7 +17,7 @@ public class Main {
 
         imenik.dodajOcijenu(o1);
         imenik.dodajOcijenu(o2);
-        //imenik.dodajOcijenu(o3);
+        imenik.dodajOcijenu(o3);
         imenik.spremi();
 
 
